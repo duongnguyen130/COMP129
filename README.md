@@ -28,6 +28,7 @@ As mentioned above, the goal is to beat traffic jam that is filled with errors. 
 ##Main Room, level 1 room open -Use Case: Players explore different rooms
 <img width="807" alt="Screen Shot 2023-12-08 at 6 06 23 PM" src="https://github.com/comp55/final-project-the-debuggers/assets/148295066/d36281cc-d8af-4b97-b3fc-57e66f8fc216">
 
+The first commit that I made in the old repo is bellow this line:
 Overview of implementing new feature:
 I am implementing a dynamic loading of UI components and their properties from a different file that allow me to edit these components' properties such as size, color without having to edit the java code file.
 Pseudocode:
